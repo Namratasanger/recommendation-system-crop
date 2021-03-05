@@ -1,3 +1,3 @@
 # recommendation-system-crop
 
-Github Repo
+Clone the project and run `npm install` to install all node modules.
