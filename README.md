@@ -1,6 +1,13 @@
-# recommendation-system-crop
+# Crop recommendation system
 
-Clone the project and run `npm install` to install all node modules.
+### Tech stack
+1. Frontend - ReactJs
+2. Api Integration - NodeJs
+3. Backend - Java (the backend is in different repository)
+4. Predcition model - Python (the backend is in different repository)
+5. Deployment - Docker, Kubernetes
+
+The repository contains the frontend code of the application. 
 
 1. Recommending weather using current location
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/35221403/192922716-c635f3bd-cb66-49c7-ac22-b61317b5c787.png">
