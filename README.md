@@ -7,6 +7,11 @@
 4. Predcition model - Python (the backend is in different repository)
 5. Deployment - Docker, Kubernetes
 
+### Team 
+Frontend Development - Namrata Sanger
+Backend Development - Nikhil Malviya
+Model - Priya Jain
+
 The repository contains the frontend code of the application. 
 
 1. Recommending weather using current location
