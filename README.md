@@ -14,6 +14,12 @@
 
 The repository contains the frontend code of the application. 
 
+A preview of the application working.
+
+https://github.com/Namratasanger/recommendation-system-crop/assets/35221403/4a594b7c-7561-40d6-ab40-065e6b7b18e0
+
+
+
 1. Recommending weather using current location
 <img width="1200" height="500" alt="image" src="https://user-images.githubusercontent.com/35221403/192922716-c635f3bd-cb66-49c7-ac22-b61317b5c787.png">
 
