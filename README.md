@@ -8,9 +8,9 @@
 5. Deployment - Docker, Kubernetes
 
 ### Team 
-1. Frontend Development - Namrata Sanger
-2. Backend Development - Nikhil Malviya
-3. Model - Priya Jain
+1. Frontend Development and API Integration - Namrata Sanger
+2. Backend Development and CI/CD Pipelines - Nikhil Malviya
+3. Recommendation Model - Priya Jain
 
 The repository contains the frontend code of the application. 
 
