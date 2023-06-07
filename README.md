@@ -2,10 +2,10 @@
 
 ### Tech stack
 1. Frontend - ReactJs
-2. Api Integration - NodeJs
+2. Api Integration - NodeJs, Axios,
 3. Backend - Java (the backend is in different repository)
 4. Predcition model - Python (the backend is in different repository)
-5. Deployment - Docker, Kubernetes
+5. Deployment - IBM Cloud, Docker, Kubernetes
 
 ### Team 
 1. Frontend Development and API Integration - Namrata Sanger
