@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: crop-recommendation-frontend
+spec:
+  selector:
+    matchLabels:
+      app: crop-recommendation-frontend
+
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: crop-recommendation-frontend
+    spec:
+      containers:
+        - name: crop-recommendation-frontend
+          image: uk.icr.io/nikhil/crop-recommendation-frontend:latest
+          ports:
+            - containerPort: 80
+            - containerPort: 443

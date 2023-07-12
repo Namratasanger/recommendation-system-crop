@@ -1,0 +1,16 @@
+.madhya-pradesh-maps path {
+  fill: #ffffff;
+  stroke: #74b9ad;
+  stroke-width: 2px;
+}
+.madhya-pradesh-maps path:hover {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 4px;
+}
+
+.madhya-pradesh-maps path:focus-visible {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 4px;
+}

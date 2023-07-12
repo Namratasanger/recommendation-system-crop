@@ -1,0 +1,18 @@
+.gujarat-maps {
+}
+.gujarat-maps path {
+  fill: #ffffff;
+  stroke: #74b9ad;
+  stroke-width: 4px;
+}
+.gujarat-maps path:hover {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 4px;
+}
+
+.gujarat-maps path:focus-visible {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 4px;
+}

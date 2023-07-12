@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: crop-recommendation-frontend-service
+  labels:
+    name: crop-recommendation-frontend-service
+spec:
+  ports:
+    - port: 80
+      name: http-port
+      targetPort: 80
+      protocol: TCP
+    - port: 443
+      name: https-port
+      targetPort: 443
+      protocol: TCP
+  selector:
+    app: crop-recommendation-frontend
+  type: NodePort

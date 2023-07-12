@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap");
+
+.mapsContainer {
+  /* background-color: #2e6764; */
+}
+.india-maps {
+  /* padding-top: 90px; */
+  top: 0;
+}
+.india-maps path {
+  fill: #ffffff;
+  stroke: #74b9ad;
+  stroke-width: 1px;
+}
+.india-maps path:hover {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 2px;
+}
+
+/* about */
+
+.about-oil-w3layouts {
+  padding: 3em 1em;
+  color: #000;
+  background: #efefef;
+  box-shadow: 0px 0px 10px #cecece;
+}
+
+.about-icon span {
+  font-size: 40px;
+  color: #fd5c63;
+}
+
+.about-fashion-two img,
+.about-fashion-one img {
+  box-shadow: -9px 10px 3px #fd5c63;
+  box-shadow: -5px 2px 9px #afafaf;
+}
+
+/*--// about-- */
+
+/* top picks */
+.tableHeaderCell {
+  background-color: rgba(189, 187, 178, 0.3);
+  font-family: "Fira Sans Thin";
+}
+.tableBodyCell {
+  font-size: "16px";
+  font-weight: "10px";
+  font-family: "Fira Sans Thin";
+  border-radius: "25px";
+  border: "1px solid #cecece";
+  padding: "20px";
+  background-color: rgba(236, 236, 233, 0.3);
+}
+
+/*-- //top picks-- */

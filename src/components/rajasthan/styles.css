@@ -1,0 +1,18 @@
+.rajasthan-maps {
+}
+.rajasthan-maps path {
+  fill: #ffffff;
+  stroke: #74b9ad;
+  stroke-width: 2px;
+}
+.rajasthan-maps path:hover {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 4px;
+}
+
+.rajasthan-maps path:focus-visible {
+  fill: rgb(63, 147, 133);
+  stroke: rgb(63, 147, 133);
+  stroke-width: 4px;
+}

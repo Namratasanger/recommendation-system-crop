@@ -1,0 +1,25 @@
+.header {
+  width: 100vw;
+  height: 80px;
+  background-color: #2e6764;
+  display: flex;
+}
+.logo {
+  font-size: 24px;
+  color: #ffffff;
+  padding: 20px;
+}
+.rightSection {
+  margin-right: 10px;
+  display: flex;
+  color: #ffffff;
+  font-size: 24px;
+  width: inherit;
+  justify-content: flex-end;
+}
+.service {
+  padding: 20px;
+}
+.body {
+  text-align: center;
+}
