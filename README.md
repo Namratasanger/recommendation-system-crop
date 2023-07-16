@@ -8,9 +8,9 @@
 5. Deployment - IBM Cloud, Docker, Kubernetes
 
 ### Team 
-1. Frontend Development and API Integration - Namrata Sanger
-2. Backend Development and CI/CD Pipelines - Nikhil Malviya
-3. Recommendation Model - Priya Jain
+1. [Frontend Development and API Integration](https://github.com/Namratasanger/recommendation-system-crop) - Namrata Sanger
+2. [Backend Development and CI/CD Pipelines](https://github.com/Namratasanger/crop-recommendation-backend-service) - Nikhil Malviya
+3. [Recommendation Model](https://github.com/Namratasanger/crop-recommendation-model) - Priya Jain
 
 The repository contains the frontend code of the application. 
 
